@@ -127,3 +127,9 @@ This project has received funding from the European Union's Horizon Europe resea
 
 # 📄 License
 Distributed under the **Apache License, Version 2.0**. See `LICENSE` for more information.
+
+<!-- fork-notice: start -->
+### Notice concerning this fork
+
+This repository is a fork of an upstream project. The original copyright, licenses and upstream maintainers' legal terms remain unchanged. See this fork's [Supplemental Disclaimer and Risk Notice](DISCLAIMER.md) concerning the fork maintainer's own contributions; it does not claim to bind upstream authors or override mandatory legal rights.
+<!-- fork-notice: end -->
